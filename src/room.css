@@ -1,0 +1,18 @@
+.room{
+   height: 100vh;
+    text-align: center;
+    border-bottom: 1px solid gray;
+    padding: 10px;
+    font-size: 150%;
+}
+.dark{
+    background-color: black;
+    color: white;
+}
+.lit{
+    background-color: white;
+    color: black;
+}
+.mybutton{
+    padding: 10px;
+}
